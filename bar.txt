@@ -1,3 +1,2 @@
 bar
 more stuff
-even more stuff
